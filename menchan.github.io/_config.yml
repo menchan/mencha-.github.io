@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site settings
 title: 日常と旅
 url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
@@ -56,6 +55,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
-=======
-theme: jekyll-theme-minimal
->>>>>>> origin/master
