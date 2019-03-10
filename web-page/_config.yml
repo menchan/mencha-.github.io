@@ -3,7 +3,7 @@ email:             your-email@example.com
 description:       旅の記録や書きたいことを適当に
 author:            mencha
 baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://menchan.github.io"
+url:               "https://menchan.github.io"
 
 # Social Profiles
 twitter_username:  mencha_pimi
