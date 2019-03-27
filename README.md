@@ -1,11 +1,3 @@
----
-layout: post
-title:  "2nd"
-subtitle: "markdownの練習"
-date:  2019-03-10 12:14
-background: '/img/posts/yakumo.jpg'
----
-
 # 山陰旅
 
 行程
