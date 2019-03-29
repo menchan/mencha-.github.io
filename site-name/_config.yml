@@ -2,13 +2,13 @@ title:             test blog
 email:             your-email@example.com
 description:       テストブログです
 author:            mencha
-baseurl:           ""
-url:               "http://menchan.github.io"
+baseurl:           "https://menchan.github.io"
+url:               "https://menchan.github.io"
 
 # Social Profiles
 twitter_username:  mencha_pimi
-github_username:   
-facebook_username: 
+github_username:
+facebook_username:
 
 # Build settings
 markdown:          kramdown
