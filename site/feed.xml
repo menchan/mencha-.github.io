@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/https://menchan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="/https://menchan.github.io/" rel="alternate" type="text/html" /><updated>2019-03-29T16:49:44+09:00</updated><id>/https://menchan.github.io/feed.xml</id><title type="html">test blog</title><subtitle>テストブログです</subtitle><author><name>mencha</name></author><entry><title type="html">テストページ</title><link href="/https://menchan.github.io/2019/03/29/second.html" rel="alternate" type="text/html" title="テストページ" /><published>2019-03-29T00:00:00+09:00</published><updated>2019-03-29T00:00:00+09:00</updated><id>/https://menchan.github.io/2019/03/29/second</id><content type="html" xml:base="/https://menchan.github.io/2019/03/29/second.html">&lt;h1 id=&quot;山陰旅&quot;&gt;山陰旅&lt;/h1&gt;
+
+&lt;p&gt;行程&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;新大阪～岡山～松江&lt;/li&gt;
+  &lt;li&gt;松江しんじ湖温泉～一畑口～雲州平田～出雲大社前～電鉄出雲市～出雲市～米子～鳥取&lt;/li&gt;
+  &lt;li&gt;鳥取～大阪&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;１日目&quot;&gt;１日目&lt;/h2&gt;
+
+&lt;h3 id=&quot;松江へ&quot;&gt;松江へ&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://menchan.github.io//img/posts/yakumo.jpg&quot; alt=&quot;やくも&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;伯備線特急&lt;strong&gt;やくも&lt;/strong&gt;
+国鉄型の381系です。国鉄のマークとヘッドマークがいいですね！
+で、幕をよく見てみると…なんと「Ⅼ特急」のマークが残ってるじゃないですか！！&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;山陽新幹線みずほ&lt;/li&gt;
+  &lt;li&gt;伯備線特急やくも&lt;/li&gt;
+  &lt;li&gt;一畑電車&lt;/li&gt;
+  &lt;li&gt;山陰本線普通米子行き&lt;/li&gt;
+  &lt;li&gt;山陰本線特急スーパーまつかぜ&lt;/li&gt;
+  &lt;li&gt;智頭急行特急スーパーはくと&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>mencha</name></author><summary type="html">山陰旅</summary></entry><entry><title type="html">why?</title><link href="/https://menchan.github.io/2017/03/29/dinosaurs.html" rel="alternate" type="text/html" title="why?" /><published>2017-03-29T02:12:13+09:00</published><updated>2017-03-29T02:12:13+09:00</updated><id>/https://menchan.github.io/2017/03/29/dinosaurs</id><content type="html" xml:base="/https://menchan.github.io/2017/03/29/dinosaurs.html">&lt;p&gt;markdownつかえないの？それならhtmlで打つけど...&lt;/p&gt;
+&lt;p&gt;なんとなくわかってきましたよ。どうやら2019年がサポートされてないみたいですね&lt;/p&gt;</content><author><name>mencha</name></author><summary type="html">markdownつかえないの？それならhtmlで打つけど... なんとなくわかってきましたよ。どうやら2019年がサポートされてないみたいですね</summary></entry></feed>
