@@ -1,5 +1,5 @@
 ---
-bg: "{{site.baseurl}}\assets\images\rails.jpg"
+bg: "rails.jpg"
 layout: default
 crawlertitle: "Jekyll blog"
 title: "test blog"
@@ -8,7 +8,7 @@ summary: "main page"
 
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
-    <h2><a href="{{ site.baseurl }}/{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <h2><a href="{{ site.baseurl }}\{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
   </article>
 {% endfor %}
