@@ -9,4 +9,4 @@ active: about
 ---
 ただの大学生が旅の記録などを残していくページです
 
-Twitter： [mencha_pimi](https://twitter.com/mencha_pimi)
+Twitter： [mencha_pimi](https://twitter.com/mencha_pimi){:target="_blank"}
