@@ -1,14 +1,12 @@
 ---
-bg: "owl.jpg"
+bg: "chelly.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About"
 permalink: /about/
 summary: "About this blog"
 active: about
 ---
+ただの大学生が旅の記録などを残していくページです
 
-this is a test blog.
-
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} 
+Twitter： [mencha_pimi](https://twitter.com/mencha_pimi)
