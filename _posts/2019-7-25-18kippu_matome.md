@@ -1,3 +1,4 @@
+---
 bg: "6/6-21.jpg"
 layout: post
 title:  "青春18きっぷでゆく東北・東京旅～まとめ～"
@@ -7,6 +8,7 @@ date:   2019-07-25 23:00:00 +9
 categories: posts
 tags: '旅行記'
 author: mencha
+---
 
 費用に関しての話があったので、まとめてみます。
 
