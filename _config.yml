@@ -14,8 +14,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "" # the base hostname & protocol for your site
 twitter_username: mencha_pimi
-github_username:
-disqus_username:
 
 # Build settings
 markdown: kramdown
