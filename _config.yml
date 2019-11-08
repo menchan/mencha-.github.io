@@ -40,3 +40,7 @@ sass:
 images: '{{site.baseurl}}/assets/images'
 
 excerpt_separator: <!--more-->
+
+gems: 
+- jekyll-feed
+
