@@ -37,7 +37,7 @@ sass:
   style: compressed
 
 
-images: '{{site.baseurl}}/assets/images'
+images: '/assets/images'
 
 excerpt_separator: <!--more-->
 
