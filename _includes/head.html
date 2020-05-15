@@ -21,17 +21,18 @@
   <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|Roboto+Condensed:700&subset=latin' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="{{ "{{ site.baseurl }}/assets/css/main.css" | relative_url }}">
 
+<!--ogpなどなど-->
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.summary }}">
+  
   <meta property="og:site_name" content="{{ site.title }}">
 
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary_large_image">　<!--twitter cardの種類-->
   <meta name="twitter:url" content="{{ page.url | absolute_url }}">
   <meta name="twitter:site" content="@{{site.twitter_username}}" />
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.summary }}">
+  
 
   {% if page.bg %}
     <meta property="og:image" content="{{ site.baseurl | prepend: site.url }}{{site.images}}/{{ page.bg }}">
@@ -39,6 +40,14 @@
   {% else %}
     <meta property="og:image" content="{{ site.baseurl | prepend: site.url }}{{ site.images }}/bg.svg">
     <meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{ site.images }}/bg.svg">
+  {% endif %}
+
+  {% if page.summary %}
+    <meta property="og:description" content="{{ page.summary }}">
+    <meta name="twitter:description" content="{{ page.summary }}">
+  {% else %}
+    <meta property="og:description" content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
 
   {% feed_meta %}
