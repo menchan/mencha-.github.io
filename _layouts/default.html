@@ -5,22 +5,29 @@ layout: compress
 <html lang="{{ site.lang }}">
 
   {% include head.html %}
+
   {% seo %}
 
   <body>
     <div id="shadow"></div>
 
       {% include header.html %}
+
       {% include aside.html %}
 
     <main class="content-wrapper blog-content">
+
       {{ content }}
+
     </main>
 
     {% include footer.html %}
 
     {% if jekyll.environment == 'production' %}
+
     {% include analytics.html %}
+
     {% endif %}
+    
   </body>
 </html>
