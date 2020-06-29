@@ -234,13 +234,14 @@ article {
     padding: .2em;
     background-color: #fff;
   }
-}
-
-@media screen and (max-width:500px) {
-  img {
-    max-width: 100%;
+  @media screen and (max-width:500px) {
+    img {
+      max-width: 100%;
+    }
   }
 }
+
+
 
 .post-meta {
   padding-bottom: .5em;
