@@ -236,10 +236,11 @@ article {
   }
 }
 
-@media screen and (max-width:500px)
+@media screen and (max-width:500px) {
   img {
     max-width: 100%;
   }
+}
 
 .post-meta {
   padding-bottom: .5em;
