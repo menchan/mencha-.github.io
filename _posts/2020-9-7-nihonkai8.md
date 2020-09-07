@@ -8,7 +8,7 @@ tags: '旅行記'
 author: mencha
 ---
 
-[前回]( {% post_url 2020―9-7-nihonkai7 %}){:target="_blank"} の続き。代行バスは会津川口駅に到着しました。
+[前回]( {% post_url 2020-9-7-nihonkai7 %}){:target="_blank"} の続き。代行バスは会津川口駅に到着しました。
 
 ### 会津川口駅
 

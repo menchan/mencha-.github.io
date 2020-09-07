@@ -8,7 +8,7 @@ tags: '旅行記'
 author: mencha
 ---
 
-[前回]( {% post_url 2020-9-6-nihonkai6 %}){:target="_blank"} の続き。青海川駅を後にして次の目的地は越後湯沢。
+[前回]( {% post_url 2020-9-6-nihonkai5 %}){:target="_blank"} の続き。青海川駅を後にして次の目的地は越後湯沢。
 
 ### ほくほく線
 
