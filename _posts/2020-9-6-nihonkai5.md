@@ -14,7 +14,7 @@ author: mencha
 
 ![泊行き](https://drive.google.com/uc?export=view&id=18WuvCHXdzZlqc1Xnab8XjMXHRhgn9RIG)
 <!--more-->
-最初の列車は泊行。車両は521系なので代り映えしませんね。
+最初の列車は泊行。車両は521系なので変わり映えしませんね。
 
 ![立山連峰](https://drive.google.com/uc?export=view&id=1hFILNeDfF5pdpkjpe4a4jsDLkDpia5hR)
 
@@ -54,7 +54,7 @@ author: mencha
 
 列車は直江津駅に到着。
 
-ここからはJR東日本ですので、「北海道・東日本パス」というJR北海道、東日本と北越急行、青井盛鉄道、IGR岩手銀河鉄道の普通列車に7日間乗り放題のフリー切符を購入。エリア限定ですが7日で12000円ほどと、青春18きっぷよりも安くなっています。
+ここからはJR東日本ですので、「北海道・東日本パス」というJR北海道、東日本と北越急行、青い森鉄道、IGRいわて銀河鉄道の普通列車に7日間乗り放題のフリー切符を購入。エリア限定ですが7日で12000円ほどと、青春18きっぷよりも安くなっています。
 
 ![E129](https://drive.google.com/uc?export=view&id=153v1AofIfxFKiq1Y6BBHd2w1gkI9YK8Z)
 
@@ -64,7 +64,7 @@ author: mencha
 
 ![青海川駅ホーム、隣には日本海。](https://drive.google.com/uc?export=view&id=1dKQf59HJQfAgnRQvEOkkSODv4zDtQk27)
 
-直江津駅から新潟方面行きの列車に乗って30分ほどでしょうか、降りっ立ったのは青海川駅。
+直江津駅から新潟方面行きの列車に乗って30分ほどでしょうか、降り立ったのは青海川駅。
 
 このとおり、ホームのすぐ横まで日本海が迫っている日本一海に近いともいわれる駅。
 
