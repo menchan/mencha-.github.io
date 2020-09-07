@@ -1,6 +1,6 @@
 ---
 bg: "75/75-2.jpg"
-title: "日本海縦貫7～只見線・小出-会津川口～"
+title: "日本海縦貫7～只見線・小出ー会津川口～"
 layout: post
 date: 2020-9-7 15:00:00 +9
 categories: posts

@@ -1,6 +1,6 @@
 ---
 bg: "76/76-3.jpg"
-title: "日本海縦貫8～只見線・会津川口―会津若松～"
+title: "日本海縦貫8～只見線・会津川口ー会津若松～"
 layout: post
 date: 2020-9-7 16:00:00 +9
 categories: posts
