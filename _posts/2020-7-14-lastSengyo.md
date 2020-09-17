@@ -25,11 +25,11 @@ author: mencha
 
 しかし、2019年秋、思わぬことで注目を浴びることになります。その理由が、大阪側の幕が故障して看板を掲出して走っていたからです。
 
-![並び](https://drive.google.com/uc?export=view&id=1Psn4F-04_95gwRBOeQLyiMfoUxXlY-wP)
+![並び](https://drive.google.com/uc?export=view&id=1HJolK0YUjgdpAmm9-rAAyl1G6ekLVGJo)
 
 こちらは三重県側。「鮮魚」の文字があります。
 
-![国分](https://drive.google.com/uc?export=view&id=1HJolK0YUjgdpAmm9-rAAyl1G6ekLVGJo)
+![国分](https://drive.google.com/uc?export=view&id=1Psn4F-04_95gwRBOeQLyiMfoUxXlY-wP)
 
 こちら大阪側。幕は真っ白で右下に大きな看板が掲出されています。
 
