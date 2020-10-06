@@ -41,7 +41,6 @@ images: '/assets/images'
 
 excerpt_separator: <!--more-->
 
-gems: 
+gems:
 - jekyll-feed
-- jekyll-seo-tag
 
