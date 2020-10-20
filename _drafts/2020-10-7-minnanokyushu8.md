@@ -1,10 +1,10 @@
 ---
-bg: "69/69-.jpg"
-title: ""
+bg: "105/105-.jpg"
+title: "みんなの九州きっぷ8～～"
 layout: post
-date: 2020-7-13 12:00:00 +9
+date: 2020-10-17 16:00:00 +9
 categories: posts
-tags: ''
+tags: '旅行記'
 author: mencha
 ---
 
