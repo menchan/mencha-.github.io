@@ -1,4 +1,4 @@
-I"{N
+I"PO
 <h2 class="category-key" id="おでかけ">おでかけ</h2>
 
 <ul class="year">
@@ -35,6 +35,15 @@
 <h2 class="category-key" id="旅行記">旅行記</h2>
 
 <ul class="year">
+    
+      
+        <li>
+          
+            <a href="/posts/minnanokyushu2/">みんなの九州きっぷ2～三角西港～</a>
+            <span class="date">23-10-2020</span>
+          
+        </li>
+      
     
       
         <li>
