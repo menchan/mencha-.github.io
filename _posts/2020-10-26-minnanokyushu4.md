@@ -30,7 +30,7 @@ author: mencha
 
 こちらで宮地行きに乗り換え。肥後大津駅～大分駅は非電化で、車両はローカル線でおなじみキハ40。
 
-![サボ](https://drive.google.com/uc?export=view&id=1cy3qDqyn18VxqDShAHIi9J4tPST7c-G-)
+![サボ](https://drive.google.com/uc?export=view&id=12NFGtoZvQWE1XCp3e-ny-Bm2Dy6NBgas)
 
 キハ200というJRになってからの気動車が来ることも多いようですが、国鉄形が来てくれてうれしい…その理由は
 
