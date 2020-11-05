@@ -1,6 +1,6 @@
 ---
-bg: "107/107-.jpg"
-title: "みんなの九州きっぷ10～門司港駅～"
+bg: "109/109-.jpg"
+title: "みんなの九州きっぷ12～～"
 layout: post
 date: 2020-10-17 16:00:00 +9
 categories: posts
